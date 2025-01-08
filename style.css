@@ -1,0 +1,23 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.banner{
+    background-image: url("./Light-blue-sparkles-1024x553.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+}
+.main{
+    background-color:whitesmoke;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+}
+.skill{
+    background-image:url("./Light-blue-sparkles-1024x553.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+
+}
